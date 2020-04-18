@@ -1,9 +1,10 @@
 # php-compress-and-upload-image
 Easily set quality and upload image for php
 ## Edit RImageUpload/RConfig.php
+```
 $upload_folder = "../uploads"; // Image upload folder
-
 $max_file_size = 10; // Max file size (MB)
+```
 ## Button Disabled
 ![Button Disabled](https://raw.githubusercontent.com/ramazan-alkan/php-compress-and-upload-image/master/Screenshots/1.png)
 ## Preview Image and Enable Upload Button
