@@ -6,8 +6,8 @@ $upload_folder = "../uploads"; // Image upload folder
 $max_file_size = 10; // Max file size (MB)
 ## Button Disabled
 ![Button Disabled](https://raw.githubusercontent.com/ramazan-alkan/php-compress-and-upload-image/master/Screenshots/1.png)
-## Preview image before upload
-![Preview Image and Enable Button](https://raw.githubusercontent.com/ramazan-alkan/php-compress-and-upload-image/master/Screenshots/2.png)
+## Preview Image and Enable Upload Button
+![Preview Image and Enable Upload Button](https://raw.githubusercontent.com/ramazan-alkan/php-compress-and-upload-image/master/Screenshots/2.png)
 ```
 <script>
     function fileChanged() {
