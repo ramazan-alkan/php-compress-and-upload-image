@@ -1,4 +1,14 @@
 <?php
+    /**
+     * @package RImageUpload
+     * Name: Ramazan Image Upload
+     * Description: Easy way to upload and minify your images.
+     * Author: Ramazan Alkan
+     * Author URI: https://ramazanalkan.com
+     * Github URI: https://github.com/ramazan-alkan
+     * Version: 1.0
+     * Documention URI: https//github.com/ramazan-alkan/php-compress-and-upload-image
+    */
 
     // User Settings
     require('RConfig.php');
